@@ -114,6 +114,13 @@ def click_first_element(driver):
 def read_pdf(driver):
     page = driver.current_url
     resp = requests.get(page)
+    search_result(driver, resp)
+
+
+def search_result(driver, resp):
+    results = []
+
+    while len(results) < 1:
 
 
 raw(['Kush', 'Haze'])
