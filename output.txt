@@ -1,0 +1,248 @@
+                                                            CannaSafe - LA                 (818) 922-2416                                                  Regulatory Compliance Testing
+                                                            7027 Hayvenhurst Ave.          https://www.csalabs.com
+                                                            Van Nuys, CA 91406             Lic# C8-0000040-LIC
+         Golden Kiwi (1g)
+         Sample ID: 2011CSALA3613.9103
+                                                            Produced: 11/20/2020
+         Matrix: Concentrates & Extracts                    Collected: 11/20/2020
+         Type: Other                                        Received: 11/20/2020                              Distributor                                       Producer
+         Sample Size: 10 units                              Completed: 11/25/2020                             Central Coast Ag Distribution, LLC                Central Coast Ag Products, LLC
+         Batch Size: 812 units                              Test UID: 1A4060300005F64000003730                Lic. # C11-0000496-LIC                            Lic. # CDPH-10003156
+         Batch#: 2000023                                    Source UID: 1A4060300002EE1000010070               1201 Chestnut St. W, Lompoc, California, 93436    1201 W. Chestnut Ave., Lompoc, CA 93436
+                                                                                                                 Summary                                                                               Pass
+                                                                                                                          >99.9%                             Pass                            Pass
+                                                                                                                    Total Cannabinoids                     Pesticides                  Residual Solvents
+                                                                                                                            Pass                             Pass                            Pass
+                                                                                                                          Microbials                      Mycotoxins                     Heavy Metals
+         Cannabinoids                                                                           Pass             Terpenes                                                                    Complete
+         Testing method: HPLC-SOP 101                                                                            Testing method: HS-GC-FID – SOP 201
+         Analyte           LOD            LOQ             Results          Results                               Analyte                             LOD      LOQ         Results     Results
+                           mg/g           mg/g            %                mg/g                                                                      %        %           %           mg/g
+         THCa              0.002          0.006           >99.9            >999                                  β-Myrcene                           0.008 0.024          0.83        8.35
+                                                                                                                                                                                                           
+         Δ9-THC            0.0038         0.0115          0.2326           2.3259                                δ-Limonene                          0.005 0.0159         0.28        2.84
+                                                                                                                                                                                                      
+         CBC               0.0009         0.0027          ND               ND                                    β-Caryophyllene                     0.006 0.0173         0.27        2.73
+                                                                                                                                                                                                      
+         CBD               0.0059         0.018           ND               ND                                    Terpinolene                         0.006 0.0168         0.16        1.59
+                                                                                                                                                                                                     
+         CBDa              0.0012         0.0037          ND               ND                                    Ocimene                             0.004 0.0109         0.10        1.05
+                                                                                                                                                                                                     
+         CBDV              0.0042         0.0126          ND               ND                                    Linalool                            0.008 0.0228         0.09        0.93
+                                                                                                                                                                                                     
+         CBG               0.0047         0.0143          ND               ND                                    β-Pinene                            0.005 0.0147         0.06        0.57
+                                                                                                                                                                                                    
+         CBGa              0.0016         0.005           ND               ND                                    α-Humulene                          0.006 0.0173         0.06        0.56
+                                                                                                                                                                                                    
+         CBN               0.0014         0.0041          ND               ND                                    Isopulegol                          0.009 0.0282         0.05        0.46
+                                                                                                                                                                                                    
+         THCV              0.0036         0.0111          ND               ND                                    α-Pinene                            0.006 0.0175         0.04        0.43
+                                                                                                                                                                                                    
+         Δ8-THC            0.0038         0.0115          ND               ND                                    trans-Nerolidol                     0.007 0.0219         <LOQ        <LOQ
+                                                                                                                                                                                                    
+                                                                                                                 Camphene                            0.005 0.0163         ND          ND
+                                                                                                                                                                                                    
+         Total                                            >99.9            >999
+                                                                                                                 Caryophyllene Oxide                 0.029 0.0874         ND          ND
+                                                                                                                                                                                                    
+                                                                                                                 Eucalyptol                          0.006 0.0175         ND          ND
+                                                                                                                                                                                                    
+                         88.0064%                                              ND
+                                                                                                                 Geraniol                            0.007 0.0205         ND          ND
+                                                                                                                                                                                                    
+                                                                                                                 Guaiol                              0.011 0.0334         ND          ND
+                                                                                                                                                                                                    
+                        Total THC                                       Total CBD
+                                                                                                                 p-Cymene                            0.005 0.0162         ND          ND
+                                                                                                                                                                                                    
+         Package = 1 Jar, 1.0 grams; 880.0641 mg/package Total THC; 0.0 mg/package
+                                                                                                                 α-Bisabolol                         0.01     0.0295      ND          ND
+                                                                                                                                                                                                    
+         Total CBD;
+                                                                                                                 α-Terpinene                         0.005 0.0165         ND          ND
+                                                                                                                                                                                                    
+         Date Tested: 11/24/2020
+                                                                                                                 γ-Terpinene                         0.006 0.0168         ND          ND
+                                                                                                                                                                                                    
+         Total THC = THCa * 0.877 + d9-THC
+                                                                                                                 δ-3-Carene                          0.005 0.016          ND          ND
+                                                                                                                                                                                                    
+         Total CBD = CBDa * 0.877 + CBD
+                                                                                                                 Total                                                    1.95        19.52
+         LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+                                                                                                                 Date Tested: 11/24/2020
+         If the totals appear >99%, your analytical results show a combined total greater than 100%.
+                                                                                                                                                                -
+         Analytically, the results are valid based on compound purity and innate measurement
+                                                                                                                             NT                               NT                             Pass
+         uncertainties.
+                                                                                                                          Moisture                      Water Activity                  Foreign Matter
+                                                                                                                   Moisture Analyzer SOP-103      Water Activity Meter SOP-102       Visual Inspection SOP-600
+                                                                                                                                -                               -                    Date Tested: 11/21/2020
+                                               
+                                                                                                      Douglas Duncan                            Musa Aman
+                           ISO / IEC 17025:2017 ACCREDITED
+                           LABORATORY
+                                                                                                        Lab Director                            COA Review
+                            Accreditation No. 73653
+                                                                                                         11/25/2020                              11/25/2020
+         The values reported pertain only to the product tested. Samples obtained per SOP-002. Unless otherwise stated all Laboratory Quality Control (LQC) samples performed within specifications
+         established by the BCC in 16 CCR section 5730. Sample tested per CALIFORNIA CODE OF REGULATIONS, TITLE 16, DIVISION 42. BUREAU OF CANNABIS CONTROL.
+                                                            CannaSafe - LA                 (818) 922-2416                                                  Regulatory Compliance Testing
+                                                            7027 Hayvenhurst Ave.          https://www.csalabs.com
+                                                            Van Nuys, CA 91406             Lic# C8-0000040-LIC
+         Golden Kiwi (1g)
+         Sample ID: 2011CSALA3613.9103
+                                                            Produced: 11/20/2020
+         Matrix: Concentrates & Extracts                    Collected: 11/20/2020
+         Type: Other                                        Received: 11/20/2020                              Distributor                                       Producer
+         Sample Size: 10 units                              Completed: 11/25/2020                             Central Coast Ag Distribution, LLC                Central Coast Ag Products, LLC
+         Batch Size: 812 units                              Test UID: 1A4060300005F64000003730                Lic. # C11-0000496-LIC                            Lic. # CDPH-10003156
+         Batch#: 2000023                                    Source UID: 1A4060300002EE1000010070               1201 Chestnut St. W, Lompoc, California, 93436    1201 W. Chestnut Ave., Lompoc, CA 93436
+         Pesticides                                                                                                                                                                                     Pass
+         Testing method: LCMS & GCMS-SOP 301 and 302
+         Analyte                           LOD          LOQ         Limit       Results      Status              Analyte                                  LOD       LOQ        Limit      Results     Status
+                                           μg/g         μg/g        μg/g        μg/g                                                                      μg/g      μg/g       μg/g       μg/g
+         Abamectin                         0.0009       0.003       0.1         ND           Pass                Fludioxonil                              0.0143 0.048         0.1        ND          Pass
+         Acephate                          0.005        0.017       0.1         ND           Pass                Hexythiazox                              0.0237 0.079         0.1        ND          Pass
+         Acequinocyl                       0.0193       0.064       0.1         ND           Pass                Imazalil *                               0.0077 0.026         0.0077 ND              Pass
+         Acetamiprid                       0.0073       0.024       0.1         ND           Pass                Imidacloprid                             0.0053 0.018         5          ND          Pass
+         Aldicarb *                        0.0094       0.031       0.0094      ND           Pass                Kresoxim Methyl                          0.0182 0.061         0.1        ND          Pass
+         Azoxystrobin                      0.015        0.05        0.1         ND           Pass                Malathion                                0.015     0.05       0.5        ND          Pass
+         Bifenazate                        0.0129       0.043       0.1         ND           Pass                Metalaxyl                                0.0076 0.025         2          ND          Pass
+         Bifenthrin                        0.029        0.097       3           ND           Pass                Methiocarb *                             0.0103 0.034         0.0103 ND              Pass
+         Boscalid                          0.0172       0.058       0.1         ND           Pass                Methomyl                                 0.0109 0.036         1          ND          Pass
+         Captan                            0.036        0.12        0.7         ND           Pass                Methyl Parathion *                       0.0091 0.0303 0.0091 ND                     Pass
+         Carbaryl                          0.0542       0.181       0.5         ND           Pass                Mevinphos *                              0.0041 0.014         0.0041 ND              Pass
+         Carbofuran *                      0.0077       0.026       0.0077      ND           Pass                Myclobutanil                             0.01      0.033      0.1        ND          Pass
+         Chlorantraniliprole               0.0095       0.032       10          ND           Pass                Naled                                    0.0107 0.036         0.1        ND          Pass
+         Chlordane *                       0.0055       0.0182      0.0055      ND           Pass                Oxamyl                                   0.0071 0.024         0.5        ND          Pass
+         Chlorfenapyr *                    0.0048       0.0159      0.0048      ND           Pass                Paclobutrazol *                          0.0092 0.031         0.0092 ND              Pass
+         Chlorpyrifos *                    0.0197       0.066       0.0197      ND           Pass                Pentachloronitrobenzene                  0.0084 0.0279 0.1               ND          Pass
+         Clofentezine                      0.0216       0.072       0.1         ND           Pass                Permethrin                               0.0142 0.048         0.5        ND          Pass
+         Coumaphos *                       0.0196       0.065       0.0196      ND           Pass                Phosmet                                  0.0138 0.046         0.1        ND          Pass
+         Cyfluthrin                        0.0107       0.036       2           ND           Pass                Piperonyl Butoxide                       0.0156 0.052         3          ND          Pass
+         Cypermethrin                      0.0105       0.035       1           ND           Pass                Prallethrin                              0.018     0.06       0.1        ND          Pass
+         Daminozide *                      0.0052       0.017       0.0052      ND           Pass                Propiconazole                            0.013     0.043      0.1        ND          Pass
+         DDVP *                            0.0081       0.027       0.0081      ND           Pass                Propoxur *                               0.0097 0.033         0.0097 ND              Pass
+         Diazinon                          0.0134       0.045       0.1         ND           Pass                Pyrethrins                               0.0025 0.008         0.5        ND          Pass
+         Dimethoate *                      0.0083       0.028       0.0083      ND           Pass                Pyridaben                                0.0236 0.079         0.1        ND          Pass
+         Dimethomorph                      0.0025       0.008       2           ND           Pass                Spinetoram                               0.0042 0.014         0.1        ND          Pass
+         Ethoprophos *                     0.0112       0.037       0.0112      ND           Pass                Spinosad                                 0.0002 0.001         0.1        ND          Pass
+         Etofenprox *                      0.0247       0.082       0.0247      ND           Pass                Spiromesifen                             0.0199 0.066         0.1        ND          Pass
+         Etoxazole                         0.0269       0.09        0.1         ND           Pass                Spirotetramat                            0.0068 0.023         0.1        ND          Pass
+         Fenhexamid                        0.0215       0.072       0.1         ND           Pass                Spiroxamine *                            0.0065 0.022         0.0065 ND              Pass
+         Fenoxycarb *                      0.0186       0.062       0.0186      ND           Pass                Tebuconazole                             0.0099 0.033         0.1        ND          Pass
+         Fenpyroximate                     0.0253       0.084       0.1         ND           Pass                Thiacloprid *                            0.0094 0.031         0.0094 ND              Pass
+         Fipronil *                        0.0228       0.076       0.0228      ND           Pass                Thiamethoxam                             0.005     0.017      5          ND          Pass
+         Flonicamid                        0.0073       0.024       0.1         ND           Pass                Trifloxystrobin                          0.0192 0.064         0.1        ND          Pass
+         Date Tested: 11/23/2020
+         * Denotes Category I pesticides, which fail when detected; LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+                                               
+                                                                                                      Douglas Duncan                            Musa Aman
+                           ISO / IEC 17025:2017 ACCREDITED
+                           LABORATORY
+                                                                                                        Lab Director                            COA Review
+                            Accreditation No. 73653
+                                                                                                         11/25/2020                              11/25/2020
+         The values reported pertain only to the product tested. Samples obtained per SOP-002. Unless otherwise stated all Laboratory Quality Control (LQC) samples performed within specifications
+         established by the BCC in 16 CCR section 5730. Sample tested per CALIFORNIA CODE OF REGULATIONS, TITLE 16, DIVISION 42. BUREAU OF CANNABIS CONTROL.
+                                                            CannaSafe - LA                 (818) 922-2416                                                  Regulatory Compliance Testing
+                                                            7027 Hayvenhurst Ave.          https://www.csalabs.com
+                                                            Van Nuys, CA 91406             Lic# C8-0000040-LIC
+         Golden Kiwi (1g)
+         Sample ID: 2011CSALA3613.9103
+                                                            Produced: 11/20/2020
+         Matrix: Concentrates & Extracts                    Collected: 11/20/2020
+         Type: Other                                        Received: 11/20/2020                              Distributor                                       Producer
+         Sample Size: 10 units                              Completed: 11/25/2020                             Central Coast Ag Distribution, LLC                Central Coast Ag Products, LLC
+         Batch Size: 812 units                              Test UID: 1A4060300005F64000003730                Lic. # C11-0000496-LIC                            Lic. # CDPH-10003156
+         Batch#: 2000023                                    Source UID: 1A4060300002EE1000010070               1201 Chestnut St. W, Lompoc, California, 93436    1201 W. Chestnut Ave., Lompoc, CA 93436
+         Microbials                                                                                                                                                                                     Pass
+         Testing method: PCR-SOP 401
+         Analyte                                                                                                               Result                                                 Status
+         Aspergillus flavus                                                                                                    Not Detected                                           Pass
+         Aspergillus fumigatus                                                                                                 Not Detected                                           Pass
+         Aspergillus niger                                                                                                     Not Detected                                           Pass
+         Aspergillus terreus                                                                                                   Not Detected                                           Pass
+         Salmonella                                                                                                            Not Detected                                           Pass
+         Shiga toxin-producing E. Coli                                                                                         Not Detected                                           Pass
+         Date Tested: 11/23/2020
+         LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+         Mycotoxins                                                                                                                                                                                     Pass
+         Testing method: LCMS-SOP 301
+         Analyte                                                          LOD                         LOQ                     Limit                  Results                        Status
+                                                                          μg/kg                       μg/kg                   μg/kg                  μg/kg
+         Aflatoxin B1                                                     0.0036                      0.012                                          ND                             Tested
+         Aflatoxin B2                                                     0.0092                      0.031                                          ND                             Tested
+         Aflatoxin G1                                                     0.0058                      0.019                                          ND                             Tested
+         Aflatoxin G2                                                     0.0034                      0.011                                          ND                             Tested
+         Total Aflatoxins                                                                                                     20                     ND                             Pass
+         Ochratoxin A                                                     0.0113                      0.038                   20                     ND                             Pass
+         Date Tested: 11/24/2020
+         LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+         Heavy Metals                                                                                                                                                                                   Pass
+         Testing method: ICPMS-SOP 502
+         Analyte                                          LOD                        LOQ                        Limit                      Results                              Status
+                                                          μg/g                       μg/g                       μg/g                       μg/g
+         Arsenic                                          0.006                      0.018                      0.2                        ND                                   Pass
+         Cadmium                                          0.003                      0.011                      0.2                        ND                                   Pass
+         Lead                                             0.003                      0.009                      0.5                        0.1                                  Pass
+         Mercury                                          0.01                       0.033                      0.1                        ND                                   Pass
+         Date Tested: 11/23/2020
+         LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+                                               
+                                                                                                      Douglas Duncan                            Musa Aman
+                           ISO / IEC 17025:2017 ACCREDITED
+                           LABORATORY
+                                                                                                        Lab Director                            COA Review
+                            Accreditation No. 73653
+                                                                                                         11/25/2020                              11/25/2020
+         The values reported pertain only to the product tested. Samples obtained per SOP-002. Unless otherwise stated all Laboratory Quality Control (LQC) samples performed within specifications
+         established by the BCC in 16 CCR section 5730. Sample tested per CALIFORNIA CODE OF REGULATIONS, TITLE 16, DIVISION 42. BUREAU OF CANNABIS CONTROL.
+                                                            CannaSafe - LA                 (818) 922-2416                                                  Regulatory Compliance Testing
+                                                            7027 Hayvenhurst Ave.          https://www.csalabs.com
+                                                            Van Nuys, CA 91406             Lic# C8-0000040-LIC
+         Golden Kiwi (1g)
+         Sample ID: 2011CSALA3613.9103
+                                                            Produced: 11/20/2020
+         Matrix: Concentrates & Extracts                    Collected: 11/20/2020
+         Type: Other                                        Received: 11/20/2020                              Distributor                                       Producer
+         Sample Size: 10 units                              Completed: 11/25/2020                             Central Coast Ag Distribution, LLC                Central Coast Ag Products, LLC
+         Batch Size: 812 units                              Test UID: 1A4060300005F64000003730                Lic. # C11-0000496-LIC                            Lic. # CDPH-10003156
+         Batch#: 2000023                                    Source UID: 1A4060300002EE1000010070               1201 Chestnut St. W, Lompoc, California, 93436    1201 W. Chestnut Ave., Lompoc, CA 93436
+         Residual Solvents                                                                                                                                                                              Pass
+         Testing method: HSGCMS-SOP 202
+         Analyte                                                                        LOD                   LOQ                   Limit                Results                       Status
+                                                                                        μg/g                  μg/g                  μg/g                 μg/g
+         1,2-Dichloro-Ethane                                                            0.1                   0.4                   1                    ND                            Pass
+         Acetone                                                                        64.0                  214.0                 5000                 ND                            Pass
+         Acetonitrile                                                                   36.0                  119.0                 410                  ND                            Pass
+         Benzene                                                                        0.1                   0.2                   1                    ND                            Pass
+         Butane                                                                         42.0                  141.0                 5000                 <LOQ                          Pass
+         Chloroform                                                                     0.1                   0.4                   1                    ND                            Pass
+         Ethanol                                                                        59.0                  197.0                 5000                 ND                            Pass
+         Ethyl-Acetate                                                                  43.0                  144.0                 5000                 ND                            Pass
+         Ethylene Oxide                                                                 0.2                   0.6                   1                    ND                            Pass
+         Ethyl-Ether                                                                    40.0                  134.0                 5000                 ND                            Pass
+         Heptane                                                                        46.0                  154.0                 5000                 ND                            Pass
+         Isopropanol                                                                    41.0                  138.0                 5000                 ND                            Pass
+         Methanol                                                                       160.0                 534.0                 3000                 ND                            Pass
+         Methylene-Chloride                                                             0.1                   0.4                   1                    ND                            Pass
+         n-Hexane                                                                       42.0                  139.0                 290                  ND                            Pass
+         Pentane                                                                        69.0                  229.0                 5000                 ND                            Pass
+         Propane                                                                        21.0                  70.0                  5000                 ND                            Pass
+         Toluene                                                                        47.0                  156.0                 890                  ND                            Pass
+         Trichloroethene                                                                0.1                   0.4                   1                    ND                            Pass
+         Xylenes                                                                        86.0                  287.0                 2170                 ND                            Pass
+         Date Tested: 11/23/2020
+         LOQ = Limit of Quantitation; LOD = Limit of Detection; NT = Not Tested; ND = Not Detected.
+                                               
+                                                                                                      Douglas Duncan                            Musa Aman
+                           ISO / IEC 17025:2017 ACCREDITED
+                           LABORATORY
+                                                                                                        Lab Director                            COA Review
+                            Accreditation No. 73653
+                                                                                                         11/25/2020                              11/25/2020
+         The values reported pertain only to the product tested. Samples obtained per SOP-002. Unless otherwise stated all Laboratory Quality Control (LQC) samples performed within specifications
+         established by the BCC in 16 CCR section 5730. Sample tested per CALIFORNIA CODE OF REGULATIONS, TITLE 16, DIVISION 42. BUREAU OF CANNABIS CONTROL.
